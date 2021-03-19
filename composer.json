@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-google-maps-library",
+    "name": "thiagotalma/yii2-google-maps-library",
     "description": "Google Maps API library for Yii2.",
     "keywords": [
         "yii",
@@ -14,14 +14,14 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "2amigos",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us"
+            "name": "thiagotalma",
+            "email": "hola@thiagotalma.us",
+            "homepage": "http://thiagotalma.us"
         },
         {
             "name": "Antonio Ramirez",
-            "email": "hola@2amigos.us",
-            "homepage": "https://2amigos.us"
+            "email": "hola@thiagotalma.us",
+            "homepage": "https://thiagotalma.us"
         }
     ],
     "require": {
